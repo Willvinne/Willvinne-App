@@ -20,3 +20,5 @@ Willvinne-App is a mobile application where I showcase my personal projects and 
 📥 To download the app, visit: [Releases](https://github.com/Willvinne/Willvinne-App/releases)  
 
 Thank you for your support! 😊  
+
+More information in [willvinne.com](https://willvinne.com)
